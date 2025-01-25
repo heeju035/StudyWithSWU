@@ -20,6 +20,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "SWS"
+rootProject.name = "StudyWithSWU"
 include(":app")
  
